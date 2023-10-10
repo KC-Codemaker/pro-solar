@@ -1,4 +1,4 @@
-# KC-Codemaker2.github.io
+# Pro-Solar
 
 Link: https://kc-codemaker.github.io/pro-solar.github.io/
 
